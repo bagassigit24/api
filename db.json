@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Western pygmy possum","category":"Khaki"},
+{"id":2,"name":"Sugar glider","category":"Fuscia"},
+{"id":3,"name":"Squirrel, golden-mantled ground","category":"Green"},
+{"id":4,"name":"Stork, white-necked","category":"Mauv"},
+{"id":5,"name":"Hen, sage","category":"Red"},
+{"id":6,"name":"Black-crowned crane","category":"Violet"},
+{"id":7,"name":"Eagle owl (unidentified)","category":"Green"},
+{"id":8,"name":"Kaffir cat","category":"Teal"},
+{"id":9,"name":"Lapwing, southern","category":"Puce"},
+{"id":10,"name":"Grey mouse lemur","category":"Indigo"},
+{"id":11,"name":"Lion, african","category":"Orange"},
+{"id":12,"name":"Striped skunk","category":"Pink"},
+{"id":13,"name":"Margay","category":"Red"},
+{"id":14,"name":"Porcupine, indian","category":"Red"},
+{"id":15,"name":"Australian masked owl","category":"Green"},
+{"id":16,"name":"Lemur, ring-tailed","category":"Indigo"},
+{"id":17,"name":"Red-tailed cockatoo","category":"Pink"},
+{"id":18,"name":"Elephant, asian","category":"Red"},
+{"id":19,"name":"Boar, wild","category":"Goldenrod"},
+{"id":20,"name":"Agouti","category":"Fuscia"}
+]
+}
